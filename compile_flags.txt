@@ -1,0 +1,2 @@
+-I/home/josef/Programmieren/Codeblocks/METALL/SEHNENLAENGE-VERSIONEN/Sehnenlaenge1/sehnenlaenge1
+-DNDEBUG
